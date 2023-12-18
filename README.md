@@ -43,3 +43,7 @@ _**NB:** Use KRA, NHIF, and NSSF values provided in the link below._
 [Links to an external site.](https://www.aren.co.ke/payroll/taxrates.htm)- [Links to an external site.Links to an external site.](https://www.aren.co.ke/payroll/taxrates.htm)
 
 -  _[www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.](https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye)_
+
+##MIT License
+
+Copyright (c) 2023 MOHAMUD-FARAH##
